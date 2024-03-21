@@ -15,13 +15,16 @@ body {
     justify-content: center;
     width: 100%;
     background: #f3f3f3;
+    z-index: 110;
 }
 
 .startmenu{
     position: absolute;
-    bottom: 45px;
+    bottom: -650px;
     width: 100%;
     text-align: center;
+    transition: all 0.3s ease-in;
+    
 }
 
 .startmenu img{
