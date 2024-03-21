@@ -17,6 +17,17 @@ body {
     background: #f3f3f3;
 }
 
+.startmenu{
+    position: absolute;
+    bottom: 45px;
+    width: 100%;
+    text-align: center;
+}
+
+.startmenu img{
+    border-radius: 8px;
+}
+
 .right{
     position: absolute;
     right: 0;
